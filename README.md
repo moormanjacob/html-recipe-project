@@ -9,4 +9,4 @@ This is not meant to be visually apealing. "Walk before you run."
 
 ## Authors
 
-- [@moormanj](https://github.com/moormanjacob)
+- [@moormanjacob](https://github.com/moormanjacob)
