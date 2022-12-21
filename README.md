@@ -1,9 +1,8 @@
 # HTML Recipe Project
 
-A collection of recipes to solidify the skills
+A recipe for brie cheese to solidify the skills
 I have learned in HTML so far. There is a home
-page and three recipie pages, each with their 
-own recipe.
+page and a Brie Recipe page.
 
 This is not meant to be visually apealing. "Walk before you run."
 
